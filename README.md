@@ -1,7 +1,1 @@
-# love
-
-My first GitHub project.
-
-```python
-name = input("pauline? ")
-print("Hello,", red)
+https://github.com/danilamisocenko-hue/heart/tree/main
